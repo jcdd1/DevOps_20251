@@ -1,4 +1,4 @@
 # Repositorio proyecto
 
-- JCDD
-- JMLG
+1. JCDD
+2. JMLG
